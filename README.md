@@ -45,7 +45,7 @@ I worked with ChatGPT 4o to complete this module assignment.
     * Clustered with K-Means based on the optimal k-value of Scaled DF
 
 <div align='center'>
-    <img src='images/PCA_DF.png' height='300' title='Scaled DF Clusters' alt='Scaled DF Clusters'/>
+    <img src='images/Scaled_DF.png' height='300' title='Scaled DF Clusters' alt='Scaled DF Clusters'/>
     <p>Scaled DF Clusters</p>
 </div>
 
@@ -55,7 +55,7 @@ I worked with ChatGPT 4o to complete this module assignment.
     * Clustered with K-Means based on the optimal k-value of Scaled DF reduced to 3 principal components.
 
 <div align='center'>
-    <img src='https://raw.githubusercontent.com/N8sGit/ai_project_group_8/4398f2237ab162ddcca84e87e857f19a2769ef71/exported_plots/companies.png' height='300' title='PCA Clusters' alt='PCA Clusters'/>
+    <img src='images/PCA_DF.png' height='300' title='PCA Clusters' alt='PCA Clusters'/>
     <p>PCA Clusters</p>
 
 *   ### Determined the Weight of Each Feature on Each Principal Component
