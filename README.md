@@ -2,7 +2,7 @@
 I worked with ChatGPT 4o to complete this module assignment.
 
 <div align='center'>
-    <img src='https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg' height='300' title='ML Mysticism' alt='African American Women trying to comprehend Machine Learning'/>
+    <img src='images/ML Mysticism.png' alt='African American Women trying to comprehend Machine Learning'/>
 </div>
 
 ## Overview
