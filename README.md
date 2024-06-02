@@ -57,6 +57,7 @@ I worked with ChatGPT 4o to complete this module assignment.
 <div align='center'>
     <img src='images/PCA_DF.png' height='300' title='PCA Clusters' alt='PCA Clusters'/>
     <p>PCA Clusters</p>
+</div>
 
 *   ### Determined the Weight of Each Feature on Each Principal Component
     * Utilized the attribute `pca.components_` as well the `.T` property of NumPy arrays in pandas to transpose each feature into a row, and each component into a column in order. `pca.components_` is an attribute that stores the principal components and the vector of weights, which represent the contribution of a each feature to the different components.
